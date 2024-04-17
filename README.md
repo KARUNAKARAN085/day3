@@ -1,6 +1,6 @@
 # Day3
 
-# **1.Comparing two JSON have the same properties without order.**
+## **1.Comparing two JSON have the same properties without order.**
   1.completed in the [file](./comparingJSON.js)
 ## **2.Display Flags for all the Countries**
   1.Creared html file and added script.js
